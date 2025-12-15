@@ -1,0 +1,6 @@
+Total energy (start=0, end=99) = 4.03073e-27
+Total energy (start=0, end=99) = 1.49733e-08
+Peak-to-peak amplitude (start=0, end=99) = 0.000634201
+Trapezoidal area (integration) (start=0, end=99) = 3.14114e-05
+Total energy (start=45, end=92) = 2.69154e-11
+Total energy (start=0, end=9) = 3.6765e-10
